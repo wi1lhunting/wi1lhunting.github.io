@@ -29,7 +29,7 @@ author:
   bio              : "Integrated Chinese and Western Medicine of Peking University People's Hospital"
   employer         : "Peking University"
   email            : "2511110416@bjmu.edu.cn"
-  Address          : "38 Xueyuan Rd, Haidian District, Beijing, 100191, China"
+  address          : "38 Xueyuan Rd, Haidian District, Beijing, 100191, China"
 
   # Academic websites
   academia         : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
