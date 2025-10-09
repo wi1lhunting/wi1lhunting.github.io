@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Long Zhou"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Long Zhou (周龙)"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  Address         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "Ph.D, M.D"  
+  bio              : "Integrated Chinese and Western Medicine of Peking university People's hospital"
+  employer         : "Peking University"
   uri              : # URL
   email            : "2511110416@bjmu.edu.cn" 
+  Address          : "38 Xueyuan Rd, Haidian District, Beijing, 100191, China"
 
   # Academic websites
   academia         : # URL
