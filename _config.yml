@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Long Zhou (周龙)"
   pronouns         : "Ph.D, M.D"  
-  bio              : "Integrated Chinese and Western Medicine of Peking university People's hospital"
+  bio              : "Integrated Chinese and Western Medicine of Peking University People's Hospital"
   employer         : "Peking University (https://english.pku.edu.cn/)"
-  email            : "2511110416@bjmu.edu.cn" 
+  Email: 2511110416@bjmu.edu.cn            : #"2511110416@bjmu.edu.cn"
   Address          : "38 Xueyuan Rd, Haidian District, Beijing, 100191, China"
 
   # Academic websites
