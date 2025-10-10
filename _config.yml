@@ -23,7 +23,7 @@ repository               : "wi1lhunting/wi1lhunting.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "..images/selfie.png"
+  avatar           : "../images/selfie.png"
   name             : "Long Zhou (周龙)"
   pronouns         : "Ph.D, M.D"  
   bio              : "Integrated Chinese and Western Medicine of Peking University People's Hospital"
