@@ -15,14 +15,20 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 ---
 
-Research Interests
+**Research Interests**
 
 Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, Bioinformatics
 
 ---
 
-Education
-
-2017/09 - 2022/07, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China  
-2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China  
-2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China
+**Education**
+post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+- 2017/09 - 2022/07, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China  
+- 2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China  
+- 2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China
