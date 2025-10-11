@@ -20,10 +20,9 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 <hr>
 
 <p><b>Education</b></p>
-<li>2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China</li>
-<li>2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China</li>
-<li>2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China</li>
-</div>
+<p style="text-indent: 2em;"><li>2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China</li></p>
+<p style="text-indent: 2em;"><li>2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China</li></p>
+<p style="text-indent: 2em;"><li>2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China</li></p>
 
 <hr>
 
