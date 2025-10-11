@@ -13,6 +13,7 @@ You can find my CV here: [Long Zhou's Curriculum Vitae](../assets/Curriculum_Vit
 
 [Email](mailto:2511110416@bjmu.edu.cn) / [Wechat](../images/wechat.jpg) 
 </div>
+
 ---
 
 **Research Interests**  
@@ -26,6 +27,8 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 - 2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China  
 - 2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China  
 - 2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China
+
+---
 
 **Publications**
 
@@ -41,6 +44,8 @@ See full publications at Google Scholar, ORCID, PubMed and CNKI
 <p>[8] 汪美君, 陈瑞, <b>周龙</b>, 杨盈欣, 李梦含, 王淑贤, 刘佳星, 赵琰. <a href="https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=ZYXB202310006&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=PsYli+TIfSuuoZ4vHHtlj/8kV1KiifrHgUb7QYJSUSAlZJVP7/P3DcO8wPDGyJoHHXdpmgzq4vnJM22gbC4aZM8neafq2dqwu2ab8/HoQ02a0Xv8ymvOK+lRPvSp7UkVIvWIEnPk9Kp0aCLnkLQDBF2GD43h362XWdGA6kOueIw=">枳实炭化程度对镇痛和抗抑郁药效的影响</a>.中医药学报, 2023, 51(10): 26-29. (三作, T2)</p>
 <p>[9] 陈瑞, 赵金莉, 孔若岚, <b>周龙</b>, 杨盈欣, 孔慧, 赵琰. <a href="https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=ZCYO202316005&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=AD4hnPySrzSsK/yLTUzmygZcRJ/aitL/WHSYEWFNx9i3ZVhH+d6QW4qnY3f/ItFghZqlShcnjBFIb19I9i9cGYzYKCkvRUgP6h1MeEuSz/9TRiZIX1+OjePRJS/58p9BqszZag/Pb8Fv5t2o65fLrXueUXOtiyNng5Re+1D3zmw=">生地黄炭纳米类成分的发现及其对溃疡性结肠炎的治疗作用</a>. 中草药, 2023, 54(16): 5172-5181. (四作, T1)</p>
 </div>
+
+---
 
 **Services**
 
