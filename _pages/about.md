@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="line-height: 1.5;">
+<div style="line-height: 1.25;">
 <p>I am a first-year Ph.D. student in Integrated Chinese and Western Medicine at the <a href="https://www.pkuph.cn">People's hospital</a>, <a href="https://www.pku.edu.cn">Peking University</a>. I am fortunate to be advised by <a href="https://www.pkuph.cn/dsts_detail/28504">Prof. Cuiling Feng</a>. My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.</p>
 
 <p>You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Long Zhou's Curriculum Vitae</a>.</p>
@@ -23,17 +23,16 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 ---
 
 **Education**  
-
+<div style="line-height: 1.25;">
 - 2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China  
 - 2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China  
 - 2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China
-
+</div>
 ---
 
 **Publications**
-
+<div style="line-height: 1.25;">
 See full publications at Google Scholar, ORCID, PubMed and CNKI
-<div style="line-height: 1.5;">
 <p>[1] <b>Zhou, L</b>, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full">Green carbon dots derived from <i>Zingiberis Rhizoma Carbonisatum</i> alleviate ovalbumin-induced allergic rhinitis.</a> <i>Front Immunol</i>. 2024;15. (First author, IF=5.9)</p>
 <p>[2] Low-toxicity berberine-based carbon dots applied for effective against <i>Helicobacter pylori</i> without disrupting gut microbiota. (<b>Co-first author</b>, <i>Materials Today Bio</i>, under review. IF=10.2)</p>
 <p>[3] Jingfang granules regulate ovalbumin-induced allergic rhinitis via cGAS-STING-IRF3-TBK1-NFκB pathway. (<b>Co-first author</b>, <i>Phytomedicine</i>, under review, IF=8.3)</p>
