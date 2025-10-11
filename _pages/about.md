@@ -30,7 +30,7 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 **Publications**
 
 See full publications at Google Scholar, ORCID, PubMed and CNKI
-
+<div style="line-height: 1.5;">
 [1] &nbsp;&nbsp;&nbsp;&nbsp; **Zhou, L**, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. [Green carbon dots derived from *Zingiberis Rhizoma Carbonisatum* alleviate ovalbumin-induced allergic rhinitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full). *Front Immunol*. 2024;15. (First author, IF=5.9)  
 [2] Low-toxicity berberine-based carbon dots applied for effective against *Helicobacter pylori* without disrupting gut microbiota. (**Co-first author**, *Materials today bio*, under review. IF=10.2)  
 [3] Jingfang granules regulate ovalbumin-induced allergic rhinitis via cGAS-STING-IRF3-TBK1-NFκB pathway. (**Co-first author**, *Phytomedicine*, under review, IF=8.3)  
@@ -40,7 +40,7 @@ See full publications at Google Scholar, ORCID, PubMed and CNKI
 [7]	马华根, **周龙**, 王淑贤, 孔若岚, 孔慧, 赵琰, 屈会化.[《伤寒杂病论》辨治思想之兵道探微](https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=HNZK202307006&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=n3AXGFk1sXgg3Cln5owCS1RmQuBEtenDwpRV2J2Z0Ts7Vp64jQ/O0oS4gVF4HMB6kyjTFPBSjYjkmnV/GEsCDUGHCSbzND5ySvYsYQIeIPUKcDoO3i/80Z97KkJG0j2FCm6KZzB8OXEKXK+FBRJZt7uVoLFxF8XDddnn2x4+5eg=). 中医学报, 2023, 38(07): 1400-1405. (二作, T2)  
 [8] 汪美君, 陈瑞, **周龙**, 杨盈欣, 李梦含, 王淑贤, 刘佳星, 赵琰. [枳实炭化程度对镇痛和抗抑郁药效的影响](https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=ZYXB202310006&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=PsYli+TIfSuuoZ4vHHtlj/8kV1KiifrHgUb7QYJSUSAlZJVP7/P3DcO8wPDGyJoHHXdpmgzq4vnJM22gbC4aZM8neafq2dqwu2ab8/HoQ02a0Xv8ymvOK+lRPvSp7UkVIvWIEnPk9Kp0aCLnkLQDBF2GD43h362XWdGA6kOueIw=).中医药学报, 2023, 51(10): 26-29. (三作, T2)  
 [9] 陈瑞, 赵金莉, 孔若岚, **周龙**, 杨盈欣, 孔慧, 赵琰. [生地黄炭纳米类成分的发现及其对溃疡性结肠炎的治疗作用](https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=ZCYO202316005&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=AD4hnPySrzSsK/yLTUzmygZcRJ/aitL/WHSYEWFNx9i3ZVhH+d6QW4qnY3f/ItFghZqlShcnjBFIb19I9i9cGYzYKCkvRUgP6h1MeEuSz/9TRiZIX1+OjePRJS/58p9BqszZag/Pb8Fv5t2o65fLrXueUXOtiyNng5Re+1D3zmw=). 中草药, 2023, 54(16): 5172-5181. (四作, T1)  
-
+</div>
 **Services**
 
 Reviewer of Journal of Ethnopharmacology (JCR Q1, IF=5.4)
