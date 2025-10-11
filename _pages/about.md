@@ -31,7 +31,7 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 
 See full publications at Google Scholar, ORCID, PubMed and CNKI
 <div style="line-height: 1.5;">
-[1] &nbsp;&nbsp;&nbsp;&nbsp; **Zhou, L**, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. [Green carbon dots derived from *Zingiberis Rhizoma Carbonisatum* alleviate ovalbumin-induced allergic rhinitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full). *Front Immunol*. 2024;15. (First author, IF=5.9)  
+<p>[1] &nbsp;&nbsp;&nbsp;&nbsp; **Zhou, L**, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full">Green carbon dots derived from *Zingiberis Rhizoma Carbonisatum* alleviate ovalbumin-induced allergic rhinitis.</a> *Front Immunol*. 2024;15. (First author, IF=5.9)</p>
 [2] Low-toxicity berberine-based carbon dots applied for effective against *Helicobacter pylori* without disrupting gut microbiota. (**Co-first author**, *Materials today bio*, under review. IF=10.2)  
 [3] Jingfang granules regulate ovalbumin-induced allergic rhinitis via cGAS-STING-IRF3-TBK1-NFκB pathway. (**Co-first author**, *Phytomedicine*, under review, IF=8.3)  
 [4] Wang X, Wu T, Yang Y, **Zhou L**, Wang S, Liu J, Zhao Y, Zhang M, Zhao Y, Qu H, Kong H, Zhang Y. [Ultrasmall and highly biocompatible carbon dots derived from natural plant with amelioration against acute kidney injury](https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-023-01795-5). *J Nanobiotechnology*. (Fourth author, IF=12.6)  
