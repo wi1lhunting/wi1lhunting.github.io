@@ -9,9 +9,9 @@ redirect_from:
 <div style="line-height: 1;">
 I am a first-year Ph.D. student in Integrated Chinese and Western Medicine at the <a href="https://www.pkuph.cn">People's hospital</a>, <a href="https://www.pku.edu.cn">Peking University</a>. I am fortunate to be advised by <a href="https://www.pkuph.cn/dsts_detail/28504">Prof. Cuiling Feng</a>. My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
 
-You can find my CV here: [Long Zhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Long Zhou's Curriculum Vitae</a>.
 
-[Email](mailto:2511110416@bjmu.edu.cn) / [Wechat](../images/wechat.jpg) 
+ <a href="mailto:2511110416@bjmu.edu.cn">Email</a> / <a href="../images/wechat.jpg">Wechat</a>
 </div>
 
 ---
