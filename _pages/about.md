@@ -33,7 +33,7 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 **Publications**
 
 See full publications at Google Scholar, ORCID, PubMed and CNKI
-<div style="line-height: 1;">
+<div style="line-height: 1.5;">
 <p>[1] <b>Zhou, L</b>, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full">Green carbon dots derived from <i>Zingiberis Rhizoma Carbonisatum</i> alleviate ovalbumin-induced allergic rhinitis.</a> <i>Front Immunol</i>. 2024;15. (First author, IF=5.9)</p>
 <p>[2] Low-toxicity berberine-based carbon dots applied for effective against <i>Helicobacter pylori</i> without disrupting gut microbiota. (<b>Co-first author</b>, <i>Materials Today Bio</i>, under review. IF=10.2)</p>
 <p>[3] Jingfang granules regulate ovalbumin-induced allergic rhinitis via cGAS-STING-IRF3-TBK1-NFκB pathway. (<b>Co-first author</b>, <i>Phytomedicine</i>, under review, IF=8.3)</p>
