@@ -24,15 +24,15 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 
 **Education**  
 <div style="line-height: 1.25;">
-- 2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China  
-- 2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China  
-- 2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China
+<li>2025/09 - now, Ph.D., Integrated Chinese and Western Medicine, Peking University, Beijing, China</li>
+<li>2022/09 - 2025/07, Master, Clinical Foundation of Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China</li>
+<li>2017/09 - 2022/07, Bachelor, Traditional Chinese Medicine, Chongqing Medical University, Chonqing, China</li>
 </div>
 ---
 
 **Publications**
 <div style="line-height: 1.25;">
-See full publications at Google Scholar, ORCID, PubMed and CNKI
+<p>See full publications at Google Scholar, ORCID, PubMed and CNKI</p>
 <p>[1] <b>Zhou, L</b>, Yang, Y, Li, T, Zhao, Y, Yuan, J, He, C, Huang, Y, Ma, J, Zhang, Y, Lu, F, Wu, J, Li, Z, Kong, H, Zhao, Y, Qu, H. <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1492181/full">Green carbon dots derived from <i>Zingiberis Rhizoma Carbonisatum</i> alleviate ovalbumin-induced allergic rhinitis.</a> <i>Front Immunol</i>. 2024;15. (First author, IF=5.9)</p>
 <p>[2] Low-toxicity berberine-based carbon dots applied for effective against <i>Helicobacter pylori</i> without disrupting gut microbiota. (<b>Co-first author</b>, <i>Materials Today Bio</i>, under review. IF=10.2)</p>
 <p>[3] Jingfang granules regulate ovalbumin-induced allergic rhinitis via cGAS-STING-IRF3-TBK1-NFκB pathway. (<b>Co-first author</b>, <i>Phytomedicine</i>, under review, IF=8.3)</p>
