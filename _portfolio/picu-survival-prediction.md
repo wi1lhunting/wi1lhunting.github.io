@@ -6,7 +6,7 @@ permalink: /portfolio/picu-mortality-prediction
 date: 2026-01-18
 excerpt: "利用随机森林与逻辑回归模型分析 PICU 临床数据，预测患者院内死亡风险（AUC 0.85），并结合 SHAP 值实现模型的可解释性分析。"
 header:
-  teaser: <br/><img src='/images/roc_curve_comparison.png'>
+  teaser: /images/portfolio/picu-survival-prediction/pic_model_evaluation.png
 tags:
   - Machine Learning
   - Healthcare
@@ -31,12 +31,12 @@ tech_stack:
 
 项目首先对 13,258 名患者的数据进行了深入的统计分析。通过可视化手段，我们探索了年龄、性别与死亡率之间的关系，并筛选了关键的实验室指标。
 
-![人口统计学分析](/images/portfolio/picu-mortality-prediction/pic_demographics_analysis.png)
+![人口统计学分析](/images/portfolio/picu-survival-prediction/pic_demographic_analysis.png)
 *图1：患者年龄与性别分布及其对死亡率的影响。数据显示婴儿组（0-1岁）和青少年组（10岁+）的死亡率相对较高。*
 
 此外，我们分析了各临床特征与目标变量（是否死亡）的相关性，识别出与死亡风险最相关的前 20 个特征。
 
-![特征相关性分析](/images/portfolio/picu-mortality-prediction/pic_correlation_analysis.png)
+![特征相关性分析](/images/portfolio/picu-survival-prediction/pic_correlation_analysis.png)
 *图2：与死亡风险相关性最强的正相关（红色）与负相关（蓝色）特征。*
 
 ## 核心实现 (Implementation)
@@ -108,16 +108,20 @@ best_rf = rf_search.best_estimator_
 ### 3. 模型评估 (Evaluation)
 经过优化，随机森林模型在测试集上表现优异，AUC 达到 0.85 左右，优于逻辑回归模型。
 
-图3![模型评估](/images/portfolio/picu-mortality-prediction/correlation_analysis.png)：(左上) ROC 曲线对比；(右上/左下) 混淆矩阵；(右下) 随机森林模型的特征重要性排序。
+![模型评估](/images/portfolio/picu-survival-prediction/pic_detailed_evaluation.png)
 
 可解释性分析 (SHAP Analysis)
 为了不仅知道“谁风险高”，还能知道“为什么风险高”，我们引入了 SHAP 值进行解释。
+![SHAP Analysis](/images/portfolio/picu-survival-prediction/shap_bar_detailed.png)
 
 全局解释性
 SHAP 蜂群图展示了哪些特征对模型输出影响最大。例如，lab_5235_max（假设为某生化指标）的高值（红色点）主要分布在 SHAP 值大于 0 的区域，说明该指标升高会增加死亡风险。
+![SHAP swarm](/images/portfolio/picu-survival-prediction/shap_swarm_detailed.png)
 
 局部解释性
-我们可以针对单个患者生成“力图 (Force Plot)”，直观展示各特征如何共同作用导致该患者被预测为高风险。
+我们针对单个患者生成了“力图 (Force Plot)”，直观展示各特征如何共同作用导致该患者被预测为高风险。
+图
+![Force plot](/images/portfolio/picu-survival-prediction/shap_static_force_plot.png)
 
 ```python
 import shap
