@@ -31,13 +31,16 @@ tech_stack:
 
 项目首先对 13,258 名患者的数据进行了深入的统计分析。通过可视化手段，我们探索了年龄、性别与死亡率之间的关系，并筛选了关键的实验室指标。
 
+![基线分析](/images/portfolio/picu-survival-prediction/pic_baseline.png)
+*图1:基线分析。*
+
 ![人口统计学分析](/images/portfolio/picu-survival-prediction/pic_demographic_analysis.png)
-*图1：患者年龄与性别分布及其对死亡率的影响。数据显示婴儿组（0-1岁）和青少年组（10岁+）的死亡率相对较高。*
+*图2：患者年龄与性别分布及其对死亡率的影响。数据显示婴儿组（0-1岁）和青少年组（10岁+）的死亡率相对较高。*
 
 此外，我们分析了各临床特征与目标变量（是否死亡）的相关性，识别出与死亡风险最相关的前 20 个特征。
 
 ![特征相关性分析](/images/portfolio/picu-survival-prediction/pic_correlation_analysis.png)
-*图2：与死亡风险相关性最强的正相关（红色）与负相关（蓝色）特征。*
+*图3：与死亡风险相关性最强的正相关（红色）与负相关（蓝色）特征。*
 
 ## 核心实现 (Implementation)
 
@@ -107,8 +110,8 @@ best_rf = rf_search.best_estimator_
 
 ### 3. 模型评估 (Evaluation)
 经过优化，随机森林模型在测试集上表现优异，AUC 达到 0.85 左右，优于逻辑回归模型。
-
-![模型评估](/images/portfolio/picu-survival-prediction/pic_detailed_evaluation.png)
+![AUC](/images/portfolio/picu-survival-prediction/pic_model_evaluation.png)
+![Recall and F1](/images/portfolio/picu-survival-prediction/pic_detailed_evaluation.png)
 
 可解释性分析 (SHAP Analysis)
 为了不仅知道“谁风险高”，还能知道“为什么风险高”，我们引入了 SHAP 值进行解释。
