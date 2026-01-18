@@ -31,12 +31,12 @@ tech_stack:
 
 项目首先对 13,258 名患者的数据进行了深入的统计分析。通过可视化手段，我们探索了年龄、性别与死亡率之间的关系，并筛选了关键的实验室指标。
 
-![人口统计学分析](/images/portfolio/picu-mortality-prediction/demographics_analysis.png)
+![人口统计学分析](/images/portfolio/picu-mortality-prediction/pic_demographics_analysis.png)
 *图1：患者年龄与性别分布及其对死亡率的影响。数据显示婴儿组（0-1岁）和青少年组（10岁+）的死亡率相对较高。*
 
 此外，我们分析了各临床特征与目标变量（是否死亡）的相关性，识别出与死亡风险最相关的前 20 个特征。
 
-![特征相关性分析](/images/portfolio/picu-mortality-prediction/correlation_analysis.png)
+![特征相关性分析](/images/portfolio/picu-mortality-prediction/pic_correlation_analysis.png)
 *图2：与死亡风险相关性最强的正相关（红色）与负相关（蓝色）特征。*
 
 ## 核心实现 (Implementation)
