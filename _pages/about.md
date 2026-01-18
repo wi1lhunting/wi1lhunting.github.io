@@ -42,4 +42,3 @@ Traditional Chinese Medicine, Respiratory Disease, Pharmacology, Inflammation, B
 
 <p><b>Services</b></p>
 Reviewer of <i>Journal of Ethnopharmacology</i> (JCR Q1, IF=5.4)
-</div>
