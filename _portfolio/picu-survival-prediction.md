@@ -6,9 +6,7 @@ permalink: /portfolio/picu-mortality-prediction
 date: 2026-01-18
 excerpt: "利用随机森林与逻辑回归模型分析 PICU 临床数据，预测患者院内死亡风险（AUC 0.85），并结合 SHAP 值实现模型的可解释性分析。"
 header:
-  overlay_image: /images/portfolio/picu-survival-prediction/pic_model_evaluation.png
-  teaser: /images/portfolio/picu-survival-prediction/pic_model_evaluation.png
-  caption: "Model Evaluation ROC & Confusion Matrix"
+  teaser: <br/><img src='/images/portfolio/picu-survival-prediction/pic_model_evaluation.png'>
 tags:
   - Machine Learning
   - Healthcare
