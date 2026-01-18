@@ -3,10 +3,10 @@ title: "基于机器学习的 PICU 患者院内死亡风险预测"
 collection: portfolio
 type: "Healthcare AI Project"
 permalink: /portfolio/picu-mortality-prediction
-date: 2026-01-19
+date: 2026-01-18
 excerpt: "利用随机森林与逻辑回归模型分析 PICU 临床数据，预测患者院内死亡风险（AUC 0.85），并结合 SHAP 值实现模型的可解释性分析。"
 header:
-  teaser: /images/portfolio/picu-mortality-prediction/model_evaluation_roc_cm.png
+  teaser: ![roc](/images/portfolio/picu-mortality-prediction/model_evaluation_roc_cm.png)
 tags:
   - Machine Learning
   - Healthcare
@@ -108,7 +108,7 @@ best_rf = rf_search.best_estimator_
 ### 3. 模型评估 (Evaluation)
 经过优化，随机森林模型在测试集上表现优异，AUC 达到 0.85 左右，优于逻辑回归模型。
 
-图3：(左上) ROC 曲线对比；(右上/左下) 混淆矩阵；(右下) 随机森林模型的特征重要性排序。
+图3![模型评估](/images/portfolio/picu-mortality-prediction/correlation_analysis.png)：(左上) ROC 曲线对比；(右上/左下) 混淆矩阵；(右下) 随机森林模型的特征重要性排序。
 
 可解释性分析 (SHAP Analysis)
 为了不仅知道“谁风险高”，还能知道“为什么风险高”，我们引入了 SHAP 值进行解释。
